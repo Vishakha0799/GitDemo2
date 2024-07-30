@@ -22,6 +22,8 @@ public class JavaAlertBox {
 		
 		System.out.println("Alert Example");
 		System.out.println("Thank you");
+		System.out.println("Welcome");
+		System.out.println("Bye");
 	
 	}
 
